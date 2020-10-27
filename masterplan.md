@@ -28,4 +28,16 @@
 - B1 Einheit 1 Zeitpunkte 3-4 Interview 3
 
 
+# 3 数据科学学习
 
+## General
+
+- [ ] [Youtube: 2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk&t=1634s)
+- [ ] [Youtube: Don't Learn Machine Learning](https://www.youtube.com/watch?v=cyLWtMSry58)
+- [ ] [Youtube: How to get experience as a beginner data scientist](https://www.youtube.com/watch?v=yQvUU2YPPy4)
+
+
+# 4 健康
+
+
+# 5 电吉他
