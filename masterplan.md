@@ -8,8 +8,8 @@
 
 **如何操作：**
 
-- [ ] 下载A2及B1教材听力
-- [ ] 传输下载好的听力文件至iPad上的"变速MP3"App
+- [x] 下载A2及B1教材听力
+- [x] 传输下载好的听力文件至iPad上的"变速MP3"App
 
 1. 选定一篇精听的文档，确定唯一的目的（积累新单词？学习语法结构？了解文化背景？）
 2. 全篇听，尝试理解大意。
@@ -21,6 +21,11 @@
     4. 查发音。
 
 #### log
+
+- B1 Einheit 1 Zeitpunkte 1-2 (Finished on 10-24)
+- B1 Einheit 1 Zeitpunkte 3-4 Interview 1
+- B1 Einheit 1 Zeitpunkte 3-4 Interview 2
+- B1 Einheit 1 Zeitpunkte 3-4 Interview 3
 
 
 
