@@ -4,28 +4,35 @@
 
 ## 德语
 
-### 2020.10-2020.12计划：精听A2及B1教材听力。
+### 2020.11-2021.5
 
-**如何操作：**
+目标：达到生活场景听说流利。
 
-- [x] 下载A2及B1教材听力
-- [x] 传输下载好的听力文件至iPad上的"变速MP3"App
+**How To**
 
-1. 选定一篇精听的文档，确定唯一的目的（积累新单词？学习语法结构？了解文化背景？）
-2. 全篇听，尝试理解大意。
-3. 边精听边复述，思考用了什么词表达了什么意思。
-4. 对比原文：
-    1. **deepl**辅助理解。
-    2. 积累生词。（**德语助手** & **Anki**）
-    3. 积累语法结构。（**Pons Die Deutsche Grammartik** & **Duden Der Kleine Duden Deutsche Grammatik** & **Google**）
-    4. 查发音。
+**资源**：
+Easy German 会员
 
-#### log
+**参考**：
+1. deepl.com 实在理解不了的内容通过翻译理解
+2. 德语助手，搭载外置词典。
+3. 语法书（**Pons Die Deutsche Grammartik** & **Duden Der Kleine Duden Deutsche Grammatik** & **Google**）
 
-- B1 Einheit 1 Zeitpunkte 1-2 (Finished on 10-24)
-- B1 Einheit 1 Zeitpunkte 3-4 Interview 1
-- B1 Einheit 1 Zeitpunkte 3-4 Interview 2
-- B1 Einheit 1 Zeitpunkte 3-4 Interview 3
+**计划**：
+1. 精听与跟读隔天交叉进行。
+2. 精听：
+    1. 选定一篇精听的文档，确定唯一的目的（积累新单词？学习语法结构？了解文化背景？）
+    2. 全篇听，尝试理解大意。
+    3. 边精听边复述，思考用了什么词表达了什么意思。
+    4. 对比原文，查阅参考资料吃透材料。
+3. 跟读：
+    1. 设备：电脑+Adobe Audition+耳机
+    2. 每次专注于一小段对话，或3-5句独白。、
+    3. 仔细听，慢速跟读。注意细节。
+    4. 把自己跟读的内容录下来和原音频做比较。
+
+#### 学习记录
+
 
 
 # 3 数据科学学习
