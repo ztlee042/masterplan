@@ -16,7 +16,7 @@
 3. 边精听边复述，思考用了什么词表达了什么意思。
 4. 对比原文：
     1. **deepl**辅助理解。
-    2. 积累生词。（**德语助手** & **Annki**）
+    2. 积累生词。（**德语助手** & **Anki**）
     3. 积累语法结构。（**Pons Die Deutsche Grammartik** & **Duden Der Kleine Duden Deutsche Grammatik** & **Google**）
     4. 查发音。
 
